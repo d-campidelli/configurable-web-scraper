@@ -62,7 +62,7 @@ price_selector = .price_color
 rating_selector = .star-rating
 ```
 ## Included Examples
-- `wikipedia_companies.txt` — largest US companies by revenue
+- `wikipedia_companies.txt` — en.wikipedia.org/wiki/List_of_largest_companies_in_the_United_States_by_revenue
 - `books.txt` — books.toscrape.com
 
 ## Limitations
