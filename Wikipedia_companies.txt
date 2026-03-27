@@ -1,0 +1,8 @@
+item_selector = table.wikitable.sortable tbody tr
+rank_selector = td:nth-child(1)
+name_selector = td:nth-child(2) a
+industry_selector = td:nth-child(3)
+revenue_selector = td:nth-child(4)
+growth_selector = td:nth-child(5)
+employees_selector = td:nth-child(6)
+headquarters_selector = td:nth-child(7) a

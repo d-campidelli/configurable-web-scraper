@@ -1,0 +1,5 @@
+item_selector = ol.row li article
+rating_selector = .star-rating
+name_selector = h3 a
+price_selector = .price_color
+availability_selector = .instock.availability
